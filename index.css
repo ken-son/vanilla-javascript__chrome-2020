@@ -1,7 +1,8 @@
-body {
-  background-color: peru;
+.form,
+.greetings {
+  display: none;
 }
 
-h1 {
-  color: white;
+.showing {
+  display: block;
 }
