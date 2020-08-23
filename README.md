@@ -8,7 +8,7 @@
 
 - Ask for user name save/load it in/from localStorage
 - Ask for to-do item and save/load it in/from localStorage
-- Provide delete button to wipe specific to-do item
+- Provide delete button to remove specific to-do item
 - Random background images with the animation of transition
 - Get weather of current coordinates from openWeatherMap API
 
